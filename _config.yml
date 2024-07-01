@@ -25,7 +25,7 @@ description: "It's a personal website used to record the process of my lifetime.
 url: "https://junfeiwu.github.io"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "JunfeiWu.github.io"
+repository: "JunfeiWU/JunfeiWu.github.io"
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -119,10 +119,7 @@ author:
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar: "/photos/Avatar.jpg"
   #  bio: "I am an **amazing** person."
-  location:
-  "Hangzhou City,
-   Zhejiang Province,
-   China"
+  location: "Hangzhou City, Zhejiang Province, China"
   email: "wujunfei_pm@foxmail.com"
   links:
     - label: "Email"
@@ -139,10 +136,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/"
+#        url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-        url: "https://instagram.com/"
+#        url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -155,7 +152,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/"
+      url: "https://github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
