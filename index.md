@@ -8,10 +8,10 @@ layout: page
 
 Here is **Junfei Wu (Will, 邬俊飞)**.
 
-I graduated from Lanzhou University with a bachelor's degree and a master's degree in physical geography, supervised by 
-[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)
-
-
+I graduated from Lanzhou University with a bachelor's degree and a master's degree in physical geography, supervised by
+[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/). For two years since graduation, I have been severing as data product
+manager in an IT
+company called Didi, which can be rerarded as the Chinese Uber.
 
 and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program
 
@@ -23,7 +23,15 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 cai[at]ieee[dot]org*
 
+## Work Experience
+
+- **Sep 2022 - Present:** [DiDi Global Company](https://www.didiglobal.com/about-didi/about-us) | Data Product Manager |
+  Hangzhou,China
+  - My job is responsible to the development of big data procession platform to satisfy the need of internal empolees. My customs
+    mainly includes Data Scientists , data warehouse development , Algorithm Engineer, Anaylysts from all over the world.
+
 ## Academic Background
+
 - **Sep 2019 - June 2022:** Institute of Tibetan Plateau Research, CAS (Joint-Program)
 - **Sep 2019 - June 2022:** Lanzhou University (M.S, Physical Geography)
 - **Sep 2015 - June 2019:** Lanzhou University (B.S, Physical Geography)
