@@ -13,15 +13,19 @@ I graduated from Lanzhou University with a bachelor's degree and a master's degr
 manager in an IT
 company called Didi, which can be rerarded as the Chinese Uber.
 
-and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program
+[//]: # (and [Dr. Meng Yuan]&#40;https://www.researchgate.net/profile/Meng-Yuan-4&#41;. I also spent a lovely summer research program)
 
-with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an
+[//]: # ()
+[//]: # (with [Prof. Pietro Liò]&#40;https://www.cl.cam.ac.uk/~pl219/&#41; at Cambridge University. Recently, I have been selected as an)
 
-**AAAI UC Scholar**.
+[//]: # ()
+[//]: # (**AAAI UC Scholar**.)
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]
+[//]: # ()
+[//]: # (If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot])
 
-cai[at]ieee[dot]org*
+[//]: # ()
+[//]: # (cai[at]ieee[dot]org*)
 
 ## Work Experience
 
