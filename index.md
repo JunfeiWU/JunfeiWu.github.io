@@ -12,7 +12,7 @@ I graduated from Lanzhou University with a bachelor's degree and a master's degr
 [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/). For two years since graduation, I have been severing as data product
 manager in DiDi Global Company, which is the largest Internet company in China that provides online taxi booking
 services, with a market value of 20 billion US dollars. I love challenging myslef and learn something new. I am very
-interested in data-related fields and have done a lot of work in data analysis and processing in the past. I hope to
+interested in data-related fields and have done a lot of projects in the past. I hope to
 utilize my professional knowledge to solve more social issues to make the world better. I will also update my daily life
 on
 this website. If you are interested in anything about me, please feel free to email me
