@@ -12,11 +12,14 @@ environmental factors such as sand particle size and avalanche events, based on 
 sensing imagery. During my graduate studies, I utilized remote sensing data and numerical simulation models to conduct
 more quantitative research on the temporal and spatial distribution characteristics of water resource elements.
 ---
+
 ## Journals
 
 - [Wu, Junfei, et al. "Evaluation of Passive Microwave Snow-Depth Retrieval Algorithm in Selin Co and Nam Co." Remote Sensing Technology and Application 37.6 (2022): 1339-1349.](http://www.rsta.ac.cn/EN/10.11873/j.issn.1004-0323.2022.6.1339)
 - [Dai, Yufeng, et al. "Westerly-triggered lake-effect snowfall enhanced with climate warming over the Tibetan Plateau." Science Bulletin 69.7 (2024): 968-977.](https://www.sciencedirect.com/science/article/abs/pii/S2095927324000690)
+
 ---
+
 ## Thesis
 
 - [**Evaluation of Reanalysis Snow Depth Datasets and Retrieval of Snow Depth Based on Passive Microwave Data in Selin

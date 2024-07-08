@@ -37,37 +37,46 @@ at [wujunfei_pm@foxmail.com](wujunfei_pm@foxmail.com). I would be delighted to c
 
 ## Research Interests
 
--  The social or economic effect of climate change, human activities, natural hazards and so on.
--  Remote sensing
+- The social or economic effect of climate change, human activities, natural hazards and so on.
+- Remote sensing
 - Data Collection, feature extraction, analysis, and visualization
 
 [//]: # (  In the past, my research focused on time-series cycle or cryosphere)
 
 [//]: # ()
+
 [//]: # (- Internet of Everything)
 
 [//]: # ()
+
 [//]: # (- Cyber-Physical System)
 
 [//]: # ()
+
 [//]: # (- Industrial Informatics)
 
 [//]: # ()
+
 [//]: # (- Applied Machine Learning)
 
 [//]: # ()
+
 [//]: # (- [My latest research proposal &#40;Dec 2023&#41;]&#40;https://caihanlin.com/file/proposal-2023.pdf&#41;🔗)
 
 [//]: # ()
+
 [//]: # (My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on)
 
 [//]: # ()
+
 [//]: # (the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT)
 
 [//]: # ()
+
 [//]: # (positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to)
 
 [//]: # ()
+
 [//]: # (society.)
 
 ---
