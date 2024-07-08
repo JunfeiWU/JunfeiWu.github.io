@@ -14,22 +14,22 @@ manager in DiDi Global Company, which is the largest Internet company in China t
 services, with a market value of 20 billion US dollars. I love challenging myslef and learn something new. I am very
 interested in data-related fields and have done a lot of projects in the past. I hope to
 utilize my professional knowledge to solve more social issues to make the world better. I will also update my daily life
-on
-this website. If you are interested in anything about me, please feel free to email me
+on this website.
+<br/>    If you are interested in anything about me, please feel free to email me
 at [wujunfei_pm@foxmail.com](wujunfei_pm@foxmail.com). I would be delighted to communicate with you.
 
 ## Work Experience
 
-- **Sep 2022 - Present:** [DiDi Global Company](https://www.didiglobal.com/about-didi/about-us) | Data Product Manager |
-  Hangzhou,China
-  - My job is responsible to the development of big data procession platform to satisfy the need of internal empolees.
+- **Sep 2022 - Present:** Data Product Manager | [DiDi Global Company](https://www.didiglobal.com/about-didi/about-us) |
+  Hangzhou, China
+  - My job is responsible for the development of big data procession platform to satisfy the need of internal empolees.
     My customs
     mainly includes Data Scientists , data warehouse development , Algorithm Engineer, Anaylysts from all over the
     world.
 
 ## Academic Background
 
-- **Sep 2019 - June 2022:** Institute of Tibetan Plateau Research, CAS (Joint-Program)
+- **Sep 2019 - June 2022:** Institute of Tibetan Plateau Research, Chinese Academy of Sciences (Joint-Program)
 - **Sep 2019 - June 2022:** Lanzhou University (M.S, Physical Geography)
 - **Sep 2015 - June 2019:** Lanzhou University (B.S, Physical Geography)
 
@@ -37,24 +37,37 @@ at [wujunfei_pm@foxmail.com](wujunfei_pm@foxmail.com). I would be delighted to c
 
 ## Research Interests
 
-[//]: # ()
+-  The social or economic effect of climate change, human activities, natural hazards and so on.
+-  Remote sensing
+- Data Collection, feature extraction, analysis, and visualization
 
+[//]: # (  In the past, my research focused on time-series cycle or cryosphere)
+
+[//]: # ()
 [//]: # (- Internet of Everything)
 
+[//]: # ()
 [//]: # (- Cyber-Physical System)
 
+[//]: # ()
 [//]: # (- Industrial Informatics)
 
+[//]: # ()
 [//]: # (- Applied Machine Learning)
 
+[//]: # ()
 [//]: # (- [My latest research proposal &#40;Dec 2023&#41;]&#40;https://caihanlin.com/file/proposal-2023.pdf&#41;🔗)
 
+[//]: # ()
 [//]: # (My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on)
 
+[//]: # ()
 [//]: # (the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT)
 
+[//]: # ()
 [//]: # (positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to)
 
+[//]: # ()
 [//]: # (society.)
 
 ---
