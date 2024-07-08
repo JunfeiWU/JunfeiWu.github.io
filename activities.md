@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activities/index.html
-title: Training
+title: Activities
 ---
 
 ## 2019
