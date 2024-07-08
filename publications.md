@@ -1,46 +1,83 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /projects/index.html
+title: Projects
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+# In summary
 
-## Conference Paper
+Since my second year of college, I have been involved in scientific research projects. In the early stages of
+my academic career, I primarily conducted simple studies on the temporal and spatial distribution characteristics of
+environmental factors such as sand particle size and avalanche events, based on fieldwork observations and remote
+sensing imagery. During my graduate studies, I utilized remote sensing data and numerical simulation models to conduct
+more quantitative research on the temporal and spatial distribution characteristics of water resource elements.
 
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
 
-  <br>
+## Journals
 
+- [Wu, Junfei, et al. "Evaluation of Passive Microwave Snow-Depth Retrieval Algorithm in Selin Co and Nam Co." Remote Sensing Technology and Application 37.6 (2022): 1339-1349.](http://www.rsta.ac.cn/EN/10.11873/j.issn.1004-0323.2022.6.1339)
+- [Dai, Yufeng, et al. "Westerly-triggered lake-effect snowfall enhanced with climate warming over the Tibetan Plateau." Science Bulletin 69.7 (2024): 968-977.](https://www.sciencedirect.com/science/article/abs/pii/S2095927324000690)
 
----
+## Thesis
 
-## Thesis (FYP)
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
-
----
-
-## Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
+- [**Evaluation of Reanalysis Snow Depth Datasets and Retrieval of Snow Depth Based on Passive Microwave Data in Selin
+  Co
+  and Nam Co Regions(M.S, 2022)**]()
+  <br>Advisor: Professor Tandong Yao
+- [**Review of the forming conditions of avalanche research (B.S, 2019)**]()
+  <br>Advisor: Professor Tandong Yao
 
 ---
 
-## Early Project
+## Projects
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
+### 2018: Research on the microscopic causes of land subsidence in the mountain-cutting areas of the Loess Plateau—taking Lanzhou New District as an example
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+Funded by National Undergraduate Training Program for Innovation and Enterpreneurship (Funding Amount: $200)
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+- Experimental conclusion: Compared with the natural area, the deep loess in the fill area has a more broken and sparse
+  structure, a higher moisture content, weaker soil structural stability, and greater collapsibility of the loess.
 
-  <br>
+### 2016: Preliminary Study on Dynamic Characteristics of Grain Size Distribution in Surface Sediments of Tengger Desert
+
+Funded by Field practice ability improvement project at Lanzhou University Geography Base（Funding Amount: $2,000）
+
+- In order to understand the relationship between spatial characteristic of surface sediments particle size and wind
+  system in the Tengger Desert. Surface layer samples of desert were collected. After careful particle size measurement,
+  the particle size was interpolated by IDW spatial interpolation. Based on modern wind observations and Google images,
+  the spatial distribution of surface sediment particle size of Tengger Desert is preliminarily understood. There is a
+  clear consistency between the spatial distribution of sand dune surface grain size and the prevailing surface winds in
+  the desert. The east and west of the desert show the decreasing trend of particle size from NE to SW and from NW to
+  SE, and the low value areas of NE, SW and NW margin areas are caused by multi winds, vegetation and regional
+  topography respectively. Although the analysis result is limited by the sampling density, it generally reflects the
+  control of the wind system on the surface sediment particle size of the dunes, and also indirectly reflects the main
+  source of the Tengger Desert material, the alluvial fan of Shiyang River and the alluvial and diluvial fan of Helan
+  Mountains. (Manuscript)
+
+---
+
+## Some  Photos of Field Work
+<div>
+<img src="https://junfeiwu.github.io/images/field_work01.jpg">
+</div>
+<br>
+<div>
+<img src="https://junfeiwu.github.io/images/field_work02.jpg">
+</div>
+<br>
+<div>
+<img src="https://junfeiwu.github.io/images/field_work03.jpg">
+</div>
+<br>
+<div>
+<img src="https://junfeiwu.github.io/images/lanzhou_01.JPG">
+</div>
+<br>
+<div>
+<img src="https://junfeiwu.github.io/images/tengger.jpg">
+</div>
+
+
+
+
+
