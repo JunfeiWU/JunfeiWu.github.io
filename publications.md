@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /publications/index.html
+title: Publications
 ---
 
 # In summary
