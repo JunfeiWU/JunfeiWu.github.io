@@ -9,8 +9,14 @@ title: Publications
 Since my second year of college, I have been involved in scientific research projects. In the early stages of
 my academic career, I primarily conducted simple studies on the temporal and spatial distribution characteristics of
 environmental factors such as sand particle size and avalanche events, based on fieldwork observations and remote
-sensing imagery. During my graduate studies, I utilized remote sensing data and numerical simulation models to conduct
-more quantitative research on the temporal and spatial distribution characteristics of water resource elements.
+sensing imagery.
+
+[//]: # (在研究生阶段，Arthur Lutz和Sonu Khanal给我培训了关于如何使用SPHY模型后，这启发了我对遥感技术和数值模型的兴趣，因此我在研究生阶段利用各种遥感数据和机器学习算法等对积雪深度展开了研究。)
+
+During my graduate studies, Arthur Lutz and Sonu Khanal trained me on how to use the SPHY model, which sparked my
+interest in remote sensing technology and numerical modeling. Consequently, I embarked on a research project to study
+snow depth using various remote sensing data and machine learning algorithms during my graduate years.
+
 ---
 
 ## Journals
@@ -24,37 +30,27 @@ more quantitative research on the temporal and spatial distribution characterist
 
 - [**Evaluation of Reanalysis Snow Depth Datasets and Retrieval of Snow Depth Based on Passive Microwave Data in Selin
   Co
-  and Nam Co Regions(M.S, 2022)**]()
-  <br>Advisor: Professor Tandong Yao
-- [**Review of the forming conditions of avalanche research (B.S, 2019)**]()
-  <br>Advisor: Professor Tandong Yao
+  and Nam Co Regions(M.S, 2022)**](https://junfeiwu.github.io/mypaper/thesis/master_degree.pdf)
+  <br>Advisor: [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)
+- [**Review of the forming conditions of avalanche research (B.S, 2019)**](https://junfeiwu.github.io/mypaper/thesis/undergraduate_degree.pdf)
+  <br>Advisor: [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)
 
 ---
 
 ## Projects
 
-### 2018: Research on the microscopic causes of land subsidence in the mountain-cutting areas of the Loess Plateau—taking Lanzhou New District as an example
+### 2018: Research on the microscopic causes of land subsidence in the mountain-cutting areas of the Loess Plateau—taking Lanzhou New District as an example (Funding Amount: $200)
 
-Funded by National Undergraduate Training Program for Innovation and Enterpreneurship (Funding Amount: $200)
+Funded by National Undergraduate Training Program for Innovation and Enterpreneurship 
 
 - Experimental conclusion: Compared with the natural area, the deep loess in the fill area has a more broken and sparse
   structure, a higher moisture content, weaker soil structural stability, and greater collapsibility of the loess.
 
-### 2016: Preliminary Study on Dynamic Characteristics of Grain Size Distribution in Surface Sediments of Tengger Desert
+### 2016: Preliminary Study on Dynamic Characteristics of Grain Size Distribution in Surface Sediments of Tengger Desert（Funding Amount: $2,000）
 
-Funded by Field practice ability improvement project at Lanzhou University Geography Base（Funding Amount: $2,000）
+Funded by Field practice ability improvement project at Lanzhou University Geography Base
 
-- In order to understand the relationship between spatial characteristic of surface sediments particle size and wind
-  system in the Tengger Desert. Surface layer samples of desert were collected. After careful particle size measurement,
-  the particle size was interpolated by IDW spatial interpolation. Based on modern wind observations and Google images,
-  the spatial distribution of surface sediment particle size of Tengger Desert is preliminarily understood. There is a
-  clear consistency between the spatial distribution of sand dune surface grain size and the prevailing surface winds in
-  the desert. The east and west of the desert show the decreasing trend of particle size from NE to SW and from NW to
-  SE, and the low value areas of NE, SW and NW margin areas are caused by multi winds, vegetation and regional
-  topography respectively. Although the analysis result is limited by the sampling density, it generally reflects the
-  control of the wind system on the surface sediment particle size of the dunes, and also indirectly reflects the main
-  source of the Tengger Desert material, the alluvial fan of Shiyang River and the alluvial and diluvial fan of Helan
-  Mountains. (Manuscript)
+- [Click to View the  Manuscript](https://junfeiwu.github.io/mypaper/manuscript/tengger.pdf)
 
 ---
 
@@ -62,23 +58,24 @@ Funded by Field practice ability improvement project at Lanzhou University Geogr
 
 <div>
 <img src="https://junfeiwu.github.io/images/field_work01.jpg">
+<figcaption style="text-align: center"> Our Teams  </figcaption> 
 </div>
 <br>
 <div>
 <img src="https://junfeiwu.github.io/images/field_work02.jpg">
-</div>
-<br>
-<div>
-<img src="https://junfeiwu.github.io/images/field_work03.jpg">
+<figcaption style="text-align: center"> Collecting Data at Namco Lake of Tibetan Plateau  </figcaption> 
 </div>
 <br>
 <div>
 <img src="https://junfeiwu.github.io/images/lanzhou_01.JPG">
+<figcaption style="text-align: center"> Collecting Soil Samples  at Lanzhou City, China  </figcaption> 
 </div>
 <br>
 <div>
 <img src="https://junfeiwu.github.io/images/tengger.jpg">
+<figcaption style="text-align: center"> Collecting Soil Samples  at Tengger Desert  </figcaption> 
 </div>
+<br>
 
 
 

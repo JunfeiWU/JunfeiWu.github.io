@@ -4,10 +4,22 @@ permalink: /activities/index.html
 title: Activities
 ---
 
+## 2022 - Present
+
+### Working at DiDi Company
+
+<div>
+<img src="https://junfeiwu.github.io/images/Activities/colleagues.jpg">
+<figcaption style="text-align: center">Colleagues  </figcaption> 
+</div>
+
 ## 2019
 
 ### Training on Glacio-hydrological Modelling Using the SPHY Model
 
+[Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/CV_AFLutz2023-12en.pdf)
+and  [Sonu Khanal](https://www.futurewater.nl/wp-content/uploads/CV/CV_SKhanal_uk.pdf) trained us on how to use the SPHY
+model.
 <div>
 <img src="https://junfeiwu.github.io/images/Activities/sphy.jpg">
 <figcaption style="text-align: center">Photo of Participants, our tutor were  </figcaption> 
