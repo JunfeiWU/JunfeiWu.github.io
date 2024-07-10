@@ -1,26 +1,27 @@
-<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
+<!-- Lastly modified by Junfei Wu in 2024/07/11 -->
 <!-- It is not recommended to modify this code, unless you are a Pro-->
 
 <!doctype html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en"><!--<![endif]-->
 
 <head>
-{% include head.html %}
+  {% include head.html %}
 
-<!--<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>-->
+  <!--<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>-->
 
-<!--&lt;!&ndash; Google tag (gtag.js) &ndash;&gt;-->
-<!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>-->
-<!--<script>-->
-<!--  window.dataLayer = window.dataLayer || [];-->
-<!--  function gtag(){dataLayer.push(arguments);}-->
-<!--  gtag('js', new Date());-->
+  <!--&lt;!&ndash; Google tag (gtag.js) &ndash;&gt;-->
+  <!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>-->
+  <!--<script>-->
+  <!--  window.dataLayer = window.dataLayer || [];-->
+  <!--  function gtag(){dataLayer.push(arguments);}-->
+  <!--  gtag('js', new Date());-->
 
-<!--  gtag('config', 'G-T5N5JY1E21');-->
-<!--</script>-->
+  <!--  gtag('config', 'G-T5N5JY1E21');-->
+  <!--</script>-->
 
 </head>
 
@@ -45,20 +46,22 @@
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   {% for post in site.posts %}
   {% unless post.next %}
-    <h3>{{ post.date | date: '%Y' }}</h3>
-    <hr />
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h3>{{ post.date | date: '%Y' }}</h3>
-        <hr />
-      {% endif %}
-    {% endunless %}
-    <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-      <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-    </article>
+  <h3>{{ post.date | date: '%Y' }}</h3>
+  <hr/>
+  {% else %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+  {% if year != nyear %}
+  <h3>{{ post.date | date: '%Y' }}</h3>
+  <hr/>
+  {% endif %}
+  {% endunless %}
+  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+    <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title
+      }}</a></h2>
+    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html |
+      strip_newlines | truncate: 120 }}{% endif %}</p>
+  </article>
   {% endfor %}
 </div><!-- /#index -->
 
