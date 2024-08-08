@@ -40,14 +40,14 @@ links:
     url: /
   - title: Publications
     url: /publications/
-    - title: Conferences
-      url: /conferences/
-  - title: Activities
-    url: /activities/
   - title: Awards
     url: /awards/
+  - title: Training
+    url: /activities/
   - title: Projects
     url: /Projects/
+  - title: Conferences
+    url: /conferences/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
