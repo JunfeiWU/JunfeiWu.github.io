@@ -3,15 +3,18 @@ layout: page
 permalink: /activities/index.html
 title: Activities
 ---
+Menus
 
-## 2022 - Present
 
-### Working at DiDi Company
 
-<div>
-<img src="https://junfeiwu.github.io/images/Activities/colleagues.jpg">
-<figcaption style="text-align: center">Colleagues  </figcaption> 
-</div>
+## 2019 SPHY
+## 2018 暑期实习
+## 2017 天山 冰川
+## 2017 暑期实习 地貌
+## 2016 暑期实习    土壤  
+
+
+
 
 ## 2019
 
@@ -25,25 +28,20 @@ model.
 <figcaption style="text-align: center">Photo of Participants, our tutor were  </figcaption> 
 </div>
 
-### [The 2019 TPE & TransTiP Science & Technology Training and ITP Undergraduate Summer School](http://www.tpe.ac.cn/events/Training/202001/t20200113_229333.html)
-
-<div>
-<img src="https://junfeiwu.github.io/images/Activities/tpe_meeting02.jpg">
-<figcaption style="text-align: center">Photo of Participants, guess where I was </figcaption> 
-</div>
-<div>
-<img src="https://junfeiwu.github.io/images/Activities/TPE_meeting.jpg">
-<figcaption style="text-align: center">My Team Members </figcaption>
-</div>
-
 ## 2018
-
 ### Summer Field Internship at Tianshan Glacier Station of Chinese Academy of Sciences
 
 <div>
 <img src="https://junfeiwu.github.io/images/Activities/Tianshan Glacier.JPG">
 <figcaption style="text-align: center">Group Photo of My Partners </figcaption>
 </div>
+
+## 2018
+
+## 2017
+
+
+## 2016 暑期实习
 
 
 
