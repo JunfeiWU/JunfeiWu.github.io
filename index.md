@@ -4,6 +4,29 @@ layout: page
 
 # About Me
 
+
+[//]: # (# In summary)
+
+[//]: # ()
+[//]: # (Since my second year of college, I have been involved in scientific research projects. In the early stages of)
+
+[//]: # (my academic career, I primarily conducted simple studies on the temporal and spatial distribution characteristics of)
+
+[//]: # (environmental factors such as sand particle size and avalanche events, based on fieldwork observations and remote)
+
+[//]: # (sensing imagery.)
+
+[//]: # ()
+[//]: # ([//]: # &#40;在研究生阶段，Arthur Lutz和Sonu Khanal给我培训了关于如何使用SPHY模型后，这启发了我对遥感技术和数值模型的兴趣，因此我在研究生阶段利用各种遥感数据和机器学习算法等对积雪深度展开了研究。&#41;)
+[//]: # ()
+[//]: # (During my graduate studies, Arthur Lutz and Sonu Khanal trained me on how to use the SPHY model, which sparked my)
+
+[//]: # (interest in remote sensing technology and numerical modeling. Consequently, I embarked on a research project to study)
+
+[//]: # (snow depth using various remote sensing data and machine learning algorithms during my graduate years.)
+
+
+
 <img src="https://junfeiwu.github.io/junfeiwu.jpg" class="floatpic" width="360" height="480">
 
 Here is **Junfei Wu (Will, 邬俊飞)**.
