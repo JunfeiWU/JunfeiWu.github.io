@@ -42,11 +42,11 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Training
-    url: /activities/
-  - title: Projects
-    url: /Projects/
-  - title: Conferences
+  - title: training
+    url: /training/
+  - title: projects
+    url: /projects/
+  - title: conferences
     url: /conferences/
 
 
