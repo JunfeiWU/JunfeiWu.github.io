@@ -18,8 +18,7 @@ title: Awards
 - Dec 2018: Excellent Award of the First National College Meteorology Professional Knowledge Competition
 - Apr 2017: Third Prize in the School-level Ocean Knowledge Competition
 
-## Services
-
+## Professional Memberships and Services
 - Dec 2019 - Present：Student Membership of CSTP(The China Society on Tibetan Plateau)
 - Sep 2019: Outstanding Class Committee Members（10%）
 - Sep 2018: Outstanding Student Cadre （5%）

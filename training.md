@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /activities/index.html
-title: Activities
+permalink: /training/index.html
+title: training
 ---
 # Outline
 
