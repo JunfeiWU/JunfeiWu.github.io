@@ -3,13 +3,13 @@ layout: page
 ---
 
 
-<img src="https://junfeiwu.github.io/junfei01.JPG" class="floatpic" width="500",height="1000" >
-
-
 # About Me
 
 
+<img src="https://junfeiwu.github.io/junfei02.jpg" class="floatpic" width="360",height="480" >
+
 Here is **Junfei Wu (Will, 邬俊飞)**.
+
 
 I graduated from Lanzhou University with a bachelor's degree and a master's degree in physical geography, supervised by
 [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/). For two years since graduation, I have been severing as data product
