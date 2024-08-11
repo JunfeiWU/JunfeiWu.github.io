@@ -8,17 +8,27 @@ title: RESEARCH EXPERIENCE
 ## Outline
 
 ### 2020 - 2021  
-- [Retrieval of Snow Depth in Nam Co and Selin Co](#Retrieval-of-Snow-Depth-in-Nam-Co-and-Selin-Co)
+
+[//]: # (- [Retrieval of Snow Depth in Nam Co and Selin Co]&#40;#Retrieval-of-Snow-Depth-in-Nam-Co-and-Selin-Co&#41;)
+- Retrieval of Snow Depth in Nam Co and Selin Co
 
 ### 2019 
-- [Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)](#2019)
 
-#### 2018 
-- [Training in Assembling Meteorological Stations](#Training-in-Assembling-Meteorological-Stations)
-- [Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District](#Undergraduate-Research-Assistant)
+[//]: # (- [Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model &#40;SPHY&#41;]&#40;#2019&#41;)
+- Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)
+
+### 2018 
+
+[//]: # (- [Training in Assembling Meteorological Stations]&#40;#Training-in-Assembling-Meteorological-Stations&#41;)
+- Training in Assembling Meteorological Stations](#Training-in-Assembling-Meteorological-Stations
+
+[//]: # (- [Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District]&#40;#Lanzhou, China&#41;)
+- Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District
 
 ### 2017 
-- [Summer Internship at the Glacier National Field Observation and Research Station](#2017)
+
+[//]: # (- [Summer Internship at the Glacier National Field Observation and Research Station]&#40;#2017&#41;)
+- Summer Internship at the Glacier National Field Observation and Research Station
 
 
 ---
@@ -29,13 +39,13 @@ title: RESEARCH EXPERIENCE
 
 Lhasa, China
 
-- Collect data through Constructing 7 meteorological stations and fieldwork.
+- Collected data by constructing 7 meteorological stations and conducting fieldwork.
 
 <img src="https://junfeiwu.github.io/images/Research_exp/Stations.jpg">
 <figcaption style="text-align: center">The Distribution of the Meteorological Stations </figcaption> 
-<img src="https://junfeiwu.github.io/images/Research_exp/snow01.JPG">
-<img src="https://junfeiwu.github.io/images/Research_exp/field_work01.jpg">
-<figcaption style="text-align: center">The Photo of Research Team </figcaption> 
+
+<img src="https://junfeiwu.github.io/images/Research_exp/field_work02.jpg">
+<figcaption style="text-align: center">The Photo of Fieldwork </figcaption> 
 
 ---
 
@@ -44,7 +54,7 @@ Lhasa, China
 ### Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)
 
 Beijing, China
-
+<br>
 Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/CV_AFLutz2023-12en.pdf) and  [Dr. Sonu Khanal](https://www.futurewater.nl/wp-content/uploads/CV/CV_SKhanal_uk.pdf), FutureWater, The Netherlands
 
 
@@ -60,7 +70,7 @@ Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/C
 
 ## 2018
 ### Training in Assembling Meteorological Stations
-Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Lhasa, China
+Lhasa, China
 
 - Learned how to assemble meteorological stations.
 
@@ -71,11 +81,8 @@ Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Lhasa, China
 ---
 
 ### Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District
-
-##### Undergraduate Research Assistant
-
-College of Earth and Environmental Sciences, Lanzhou University
-
+Lanzhou, China
+<br>
 Mentor: *Prof. Guan Chen*
 
   - Compared the microstructures of soil samples from varying depths in both natural and mountain-cutting areas using a
@@ -99,8 +106,9 @@ Urumqi, China
 
 <div>
 <img src="https://junfeiwu.github.io/images/Research_exp/tianshan01.jpg">
-<figcaption style="text-align: center">Encountering the Snowfall in the Glacier </figcaption>
+<figcaption style="text-align: center">Encountering a Snowfall in the Glacier </figcaption>
 
 <img src="https://junfeiwu.github.io/images/Research_exp/tianshan02.jpg">
 <figcaption style="text-align: center">The Group Photo with Summer Interns and the Faculty </figcaption>
 </div>
+
