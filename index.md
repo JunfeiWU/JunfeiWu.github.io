@@ -6,9 +6,9 @@ layout: page
 # About Me
 
 
-<img src="https://junfeiwu.github.io/junfei02.jpg" class="floatpic" width="360",height="480" >
-
 Here is **Junfei Wu (Will, 邬俊飞)**.
+
+<img src="https://junfeiwu.github.io/junfei02.jpg" class="floatpic" width="360",height="480" >
 
 
 I graduated from Lanzhou University with a bachelor's degree and a master's degree in physical geography, supervised by
