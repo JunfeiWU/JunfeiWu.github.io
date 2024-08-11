@@ -6,28 +6,33 @@ title: RESEARCH EXPERIENCE
 
 # Outline
 
-## 2020 - 2021  [Investigated snow depth in Nam Co and Selin Co](#2018)
+## 2020-2021  
+- [Investigated Snow Depth in Nam Co and Selin Co](#Investigated-Snow-Depth-in-Nam-Co-and-Selin-Co)
 
-## 2019 [Training on Glacio-hydrological Modelling Using the SPHY Model](#)
+## 2019 
+- [Training on Glacio-hydrological Modelling Using the SPHY Model](#2019)
 
-## 2018 暑期实习
+## 2018 
+- [Training in Assembling Meteorological Stations](#Training-in-Assembling-Meteorological-Stations)
+- [Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District](#Undergraduate-Research-Assistant)
 
-## 2017 天山 冰川
+## 2017 
+- [Summer Internship in Glacier Studies](#2017)
 
-## 2017 暑期实习 地貌
 
-## 2016 暑期实习    土壤
 
-## 2020 - 2021 
-### Investigated snow depth in Nam Co and Selin Co
+## 2020-2021
 
- on Nam Co and Selin Co
+### Investigated Snow Depth in Nam Co and Selin Co
+
 Lhasa, China
 - Constructed 7 meteorological stations to collect data.
+
 <img src="https://junfeiwu.github.io/images/Research_exp/Stations.jpg">
 <figcaption style="text-align: center">The Distribution of the Meteorological Stations </figcaption> 
 <img src="https://junfeiwu.github.io/images/Research_exp/snow01.JPG">
 <img src="https://junfeiwu.github.io/images/Research_exp/field_work01.jpg">
+
 ## 2019
 
 ### Training on Glacio-hydrological Modelling Using the SPHY Model
@@ -46,19 +51,18 @@ Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/C
 </div>
 
 
-## 2018 Training for asemblying the meteorological stations
+## 2018
+### Training in Assembling Meteorological Stations
 Institute of Tibetan Plateau Research , Chinese Academy of Sciences, Lhasa, China
 
 - Learned how to assemble meteorological stations.
 
-<img src="https://junfeiwu.github.io/images/Research_exp/lhasa01.HEIC">
+<img src="https://junfeiwu.github.io/images/Research_exp/lhasa01.jpg">
 
 
+### Land Subsidence in Lanzhou New District’s Mountain-Cutting Areas
 
-
-### 2018: 
-### Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District
-Undergraduate Research Assistant
+##### Undergraduate Research Assistant
 
 College of Earth and Environmental Sciences, Lanzhou University
 
@@ -88,31 +92,3 @@ July - August 2017
 <img src="https://junfeiwu.github.io/images/Research_exp/tianshan02.jpg">
 <figcaption style="text-align: center">The Group Photo with Summer Interns and the Faculty </figcaption>
 </div>
-
-## 2017
-
-## 2016 暑期实习
-
-
-
-
-<div>
-<img src="https://junfeiwu.github.io/images/field_work01.jpg">
-<figcaption style="text-align: center"> Our Teams  </figcaption> 
-</div>
-<br>
-<div>
-<img src="https://junfeiwu.github.io/images/field_work02.jpg">
-<figcaption style="text-align: center"> Collecting Data at Namco Lake of Tibetan Plateau  </figcaption> 
-</div>
-<br>
-<div>
-<img src="https://junfeiwu.github.io/images/lanzhou_01.JPG">
-<figcaption style="text-align: center"> Collecting Soil Samples  at Lanzhou City, China  </figcaption> 
-</div>
-<br>
-<div>
-<img src="https://junfeiwu.github.io/images/tengger.jpg">
-<figcaption style="text-align: center"> Collecting Soil Samples  at Tengger Desert  </figcaption> 
-</div>
-<br>
