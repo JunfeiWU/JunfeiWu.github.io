@@ -97,9 +97,12 @@ Mentor: *Prof. Guan Chen*
 
 ## 2017
 ### Summer Internship at the Glacier National Field Observation and Research Station
-Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences
 
 Urumqi, China
+
+Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences
+
+
 
 - Acquired skills in measuring the melting rate and albedo of the No.1 Tianshan Glacier.
 
