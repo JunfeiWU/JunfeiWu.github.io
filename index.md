@@ -4,7 +4,10 @@ layout: page
 
 # About Me
 
-<img src="https://junfeiwu.github.io/junfei01.JPG" class="floatpic" width="360" height="480">
+[//]: # (height="480")
+<img src="https://junfeiwu.github.io/junfei01.JPG" class="floatpic" width="500" >
+
+<br>
 
 Here is **Junfei Wu (Will, 邬俊飞)**.
 
