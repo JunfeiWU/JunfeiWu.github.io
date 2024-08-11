@@ -8,7 +8,7 @@ title: RESEARCH EXPERIENCE
 ## Outline
 
 ### 2020 - 2021  
-- [Investigated Snow Depth in Nam Co and Selin Co](#Investigated-Snow-Depth-in-Nam-Co-and-Selin-Co)
+- [Retrieval of Snow Depth in Nam Co and Selin Co](#Retrieval-of-Snow-Depth-in-Nam-Co-and-Selin-Co)
 
 ### 2019 
 - [Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)](#2019)
@@ -25,24 +25,25 @@ title: RESEARCH EXPERIENCE
 
 ## 2020-2021
 
-### Investigated Snow Depth in Nam Co and Selin Co
+### Retrieval of Snow Depth in Nam Co and Selin Co
 
 Lhasa, China
-- Constructed 7 meteorological stations to collect data.
+
+- Collect data through Constructing 7 meteorological stations and fieldwork.
 
 <img src="https://junfeiwu.github.io/images/Research_exp/Stations.jpg">
 <figcaption style="text-align: center">The Distribution of the Meteorological Stations </figcaption> 
 <img src="https://junfeiwu.github.io/images/Research_exp/snow01.JPG">
 <img src="https://junfeiwu.github.io/images/Research_exp/field_work01.jpg">
+<figcaption style="text-align: center">The Photo of Research Team </figcaption> 
 
 ---
 
 ## 2019
 
 ### Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)
-Glacio-Hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)
 
-14 - 18 Oct., Beijing, China
+Beijing, China
 
 Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/CV_AFLutz2023-12en.pdf) and  [Dr. Sonu Khanal](https://www.futurewater.nl/wp-content/uploads/CV/CV_SKhanal_uk.pdf), FutureWater, The Netherlands
 
@@ -52,21 +53,24 @@ Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/C
 
 <div>
 <img src="https://junfeiwu.github.io/images/Research_exp/sphy.jpg">
+<figcaption style="text-align: center">The Photo of Completing Certificate </figcaption> 
 </div>
 
 ---
 
 ## 2018
 ### Training in Assembling Meteorological Stations
-Institute of Tibetan Plateau Research , Chinese Academy of Sciences, Lhasa, China
+Institute of Tibetan Plateau Research, Chinese Academy of Sciences, Lhasa, China
 
 - Learned how to assemble meteorological stations.
 
 <img src="https://junfeiwu.github.io/images/Research_exp/lhasa01.jpg">
 
+<figcaption style="text-align: center">The Meteorological Stations I Assembled </figcaption> 
+
 ---
 
-### Land Subsidence in Lanzhou New District’s Mountain-Cutting Areas
+### Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District
 
 ##### Undergraduate Research Assistant
 
@@ -86,9 +90,9 @@ Mentor: *Prof. Guan Chen*
 
 ## 2017
 ### Summer Internship at the Glacier National Field Observation and Research Station
-Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences, Urumqi, China
+Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences
 
-July - August 2017
+Urumqi, China
 
 - Acquired skills in measuring the melting rate and albedo of the No.1 Tianshan Glacier.
 
