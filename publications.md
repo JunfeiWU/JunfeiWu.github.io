@@ -23,7 +23,7 @@ Plateau**”. *Science Bulletin*, 69. 7 (2024): 968-977.](https://www.sciencedir
 ---
 
 ## Theses
-- **Evaluation of Reanalysis Snow Depth Datasets and Retrieval of Snow Depth Based on Passive Microwave Data in Selin Co and Nam Co Regions**(MSc, 2022)
+- **Evaluation of Reanalysis Snow Depth Datasets and Retrieval of Snow Depth Based on Passive Microwave Data in Selin Co and Nam Co Regions (MSc, 2022)**
 - Advisor: [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)
   - [Abstract in English](https://junfeiwu.github.io/mypaper/thesis/master_degree_abstract.pdf)
   - [The Original Versionn](https://junfeiwu.github.io/mypaper/thesis/master_degree.pdf)

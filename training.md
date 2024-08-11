@@ -109,7 +109,7 @@ Xinjiang Tianshan Glacier National Field Observation and Research Station, Chine
 
 <div>
 <img src="https://junfeiwu.github.io/images/Research_exp/tianshan01.jpg">
-<figcaption style="text-align: center">Encountering a Snowfall in the Glacier </figcaption>
+<figcaption style="text-align: center">Encountering Snowfall on the Glacier </figcaption>
 
 <img src="https://junfeiwu.github.io/images/Research_exp/tianshan02.jpg">
 <figcaption style="text-align: center">The Group Photo with Summer Interns and the Faculty </figcaption>
