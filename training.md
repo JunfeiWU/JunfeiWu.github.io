@@ -6,20 +6,23 @@ title: RESEARCH EXPERIENCE
 
 # Outline
 
-## 2020-2021  
+#### 2020-2021  
 - [Investigated Snow Depth in Nam Co and Selin Co](#Investigated-Snow-Depth-in-Nam-Co-and-Selin-Co)
 
-## 2019 
-- [Training on Glacio-hydrological Modelling Using the SPHY Model](#2019)
+### 2019 
+- [Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)](#2019)
 
-## 2018 
+###### 2018 
 - [Training in Assembling Meteorological Stations](#Training-in-Assembling-Meteorological-Stations)
 - [Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District](#Undergraduate-Research-Assistant)
 
 ## 2017 
 - [Summer Internship in Glacier Studies](#2017)
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## 2020-2021
 
@@ -35,7 +38,7 @@ Lhasa, China
 
 ## 2019
 
-### Training on Glacio-hydrological Modelling Using the SPHY Model
+### Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)
 Glacio-Hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)
 
 14 - 18 Oct., Beijing, China
