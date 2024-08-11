@@ -25,3 +25,15 @@ title: Conferences
 <img src="https://junfeiwu.github.io/images/Conferences/2018_anni.jpg">
 <figcaption style="text-align: center">Photo of Participants </figcaption> 
 </div>
+
+
+
+## Professional Memberships
+
+- 2019 - Present：Student Member of The China Society on Tibetan Plateau(CSTP), Beijing, China
+
+## Services
+
+- 2020: Volunteered at the National Geoscience Education Conference, Lanzhou, China
+- 2019: Coordinated the Third Pole Environment (TPE) Science & Technology Training, Chengdu, China
+- 2018: Volunteered at the Annual Conference of The China Society on Tibetan Plateau, Lanzhou, China
