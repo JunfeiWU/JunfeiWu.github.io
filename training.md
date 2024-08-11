@@ -4,25 +4,24 @@ permalink: /training/index.html
 title: RESEARCH EXPERIENCE
 ---
 
-# Outline
+---
+## Outline
 
-#### 2020-2021  
+### 2020 - 2021  
 - [Investigated Snow Depth in Nam Co and Selin Co](#Investigated-Snow-Depth-in-Nam-Co-and-Selin-Co)
 
 ### 2019 
 - [Glacio-hydrological Modelling Using the Spatial Processes in Hydrological Model (SPHY)](#2019)
 
-###### 2018 
+#### 2018 
 - [Training in Assembling Meteorological Stations](#Training-in-Assembling-Meteorological-Stations)
 - [Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District](#Undergraduate-Research-Assistant)
 
-## 2017 
-- [Summer Internship in Glacier Studies](#2017)
+### 2017 
+- [Summer Internship at the Glacier National Field Observation and Research Station](#2017)
 
-<br>
-<br>
-<br>
-<br>
+
+---
 
 ## 2020-2021
 
@@ -35,6 +34,8 @@ Lhasa, China
 <figcaption style="text-align: center">The Distribution of the Meteorological Stations </figcaption> 
 <img src="https://junfeiwu.github.io/images/Research_exp/snow01.JPG">
 <img src="https://junfeiwu.github.io/images/Research_exp/field_work01.jpg">
+
+---
 
 ## 2019
 
@@ -53,6 +54,7 @@ Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/C
 <img src="https://junfeiwu.github.io/images/Research_exp/sphy.jpg">
 </div>
 
+---
 
 ## 2018
 ### Training in Assembling Meteorological Stations
@@ -62,6 +64,7 @@ Institute of Tibetan Plateau Research , Chinese Academy of Sciences, Lhasa, Chin
 
 <img src="https://junfeiwu.github.io/images/Research_exp/lhasa01.jpg">
 
+---
 
 ### Land Subsidence in Lanzhou New District’s Mountain-Cutting Areas
 
@@ -79,8 +82,10 @@ Mentor: *Prof. Guan Chen*
 <img src="https://junfeiwu.github.io/images/Research_exp/lanzhou_01.JPG">
 <figcaption style="text-align: center">Collecting Soil Samples in the Study Area  with Prof. Guan Chen </figcaption>
 
+---
+
 ## 2017
-### Summer Internship in Glacier Studies
+### Summer Internship at the Glacier National Field Observation and Research Station
 Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences, Urumqi, China
 
 July - August 2017
