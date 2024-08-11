@@ -2,10 +2,13 @@
 layout: page
 ---
 
+
+<img src="https://junfeiwu.github.io/junfei01.JPG" class="floatpic" width="500" >
+
+
 # About Me
 
 [//]: # (height="480")
-<img src="https://junfeiwu.github.io/junfei01.JPG" class="floatpic" width="500" >
 
 <br>
 
