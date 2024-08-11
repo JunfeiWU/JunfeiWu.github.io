@@ -12,6 +12,10 @@ title: Conferences
 </div><figcaption style="text-align: center">My Team Members </figcaption>
 <figcaption style="text-align: center">Photo of Participants </figcaption>
 
+## 2020 9-25-27
+教育部会议
+地理学会
+
 
 
 ## 2018

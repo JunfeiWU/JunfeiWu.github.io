@@ -27,7 +27,7 @@ layout: page
 
 
 
-<img src="https://junfeiwu.github.io/junfeiwu.jpg" class="floatpic" width="360" height="480">
+<img src="https://junfeiwu.github.io/junfei01.JPG" class="floatpic" width="360" height="480">
 
 Here is **Junfei Wu (Will, 邬俊飞)**.
 
@@ -35,6 +35,9 @@ I graduated from Lanzhou University with a bachelor's degree and a master's degr
 [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/). For two years since graduation, I have been severing as data product
 manager in DiDi Global Company, which is the largest Internet company in China that provides online taxi booking
 services, with a market value of 20 billion US dollars.
+
+With over seven years of studying physical geography, I have gained substantial experience in climate change, remote sensing, hydrological modeling, and fieldwork, and I have published two papers. I am passionate about researching how short-term environmental changes, such as climate change and natural hazards, impact communities and individuals. My goal is to highlight these risks and contribute to developing innovative solutions and strategies for improving resilience.
+
 
 I love challenging myslef and learn something new. I am very interested in data-related fields and have done a lot of projects in the past. I hope to
 utilize my professional knowledge to solve more social issues to make the world better. 
