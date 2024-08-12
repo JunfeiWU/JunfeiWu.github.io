@@ -25,7 +25,7 @@ title: RESEARCH EXPERIENCE
 ### 2017 
 
 
-- Summer Internship at the Glacier National Field Observation and Research Station
+- Summer Internship at the Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences
 
 
 ---
@@ -41,9 +41,9 @@ Beijing, China
 - Applied advanced machine learning techniques (random forest regression, support vector regression) for snow depth retrieval, replacing traditional linear regression methods.
 
 
-<div class="second">
+<div class="half">
 <img src="https://junfeiwu.github.io/images/Research_exp/Stations.jpg"> <img src="https://junfeiwu.github.io/images/Research_exp/field_work02.jpg">
-<figcaption style="text-align: center">The Meteorological Stations I Constructed</figcaption> 
+<figcaption style="text-align: center">The Meteorological Stations I Assembled</figcaption> 
 </div>
 
 
@@ -61,10 +61,10 @@ Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/C
 - Mastered the principles of a Python-based model through self-study after the training.
 - Simulated surface runoff fluctuations across various spatiotemporal scales for the Selin Co and Nam Co regions.
 
-<div class="second">
+<div class="half">
 <img src="https://junfeiwu.github.io/images/Research_exp/sphy.jpg">
 <img src="https://junfeiwu.github.io/images/Research_exp/sphy01.jpg">
-<figcaption style="text-align: center">The Photo of Completing Certificate </figcaption> 
+<figcaption style="text-align: center">Received the Certificate of Completion </figcaption> 
 </div>
 
 ---
@@ -92,9 +92,6 @@ Mentor: *Prof. Guan Chen*
 ### Summer Internship at the Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences
 
 Urumqi, China
-
-
-
 
 - Acquired skills in measuring the melting rate and albedo of the No.1 Tianshan Glacier.
 
