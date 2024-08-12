@@ -13,9 +13,11 @@ I graduated from Lanzhou University with both a bachelor's and a master's degree
 
 With over seven years of experience in physical geography, I've developed expertise in climate change, remote sensing, hydrological modeling, and fieldwork, and I’ve published two papers. 
 
-Currently, I work as a data product manager at DiDi Global, China’s largest online taxi booking company. While this role has been valuable, I have discovered my true passion for academic research. I am now seeking a PhD program to explore how short-term environmental changes impact communities and individuals, and to develop innovative solutions for improving resilience.
+Currently, I work as a data product manager at DiDi Global, China’s largest online taxi booking company. While this role has been valuable, I have discovered my true passion for academic research. I am now seeking a PhD program to explore how short-term environmental changes impact communities and individuals, and to develop innovative solutions to enhance resilience.
 
 If you’d like to know more about me, feel free to email me at wujunfei5945@gmail.com.  I would be delighted to communicate with you.
+
+---
 
 ## Work Experience
 
@@ -24,6 +26,8 @@ If you’d like to know more about me, feel free to email me at wujunfei5945@gma
   - Analyzed customer behavior patterns using extensive datasets to inform data-driven decisions.
   - Designed and optimized a big data ETL (extraction, transformation, and loading) platform. 
   - Awarded the Outstanding Trainer Award for exceptional contributions to training in 2024.
+
+---
 
 ## Academic Background
 

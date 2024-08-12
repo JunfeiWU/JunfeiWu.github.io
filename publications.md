@@ -21,16 +21,15 @@ title: Publications
 ---
 
 ## Theses
-- **Evaluation of Reanalysis Snow Depth Datasets and Retrieval of Snow Depth Based on Passive Microwave Data in Selin Co and Nam Co Regions **
+- **Evaluation of Reanalysis Snow Depth Datasets and Retrieval of Snow Depth Based on Passive Microwave Data in Selin Co and Nam Co Regions**
 - MSc, 2022, Advisor: [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)
   - [Abstract in English](https://junfeiwu.github.io/mypaper/thesis/master_degree_abstract.pdf)
   - [The Original Version of the Full Article](https://junfeiwu.github.io/mypaper/thesis/master_degree.pdf)
   
 
-<br>
 
 
-- **Review of the forming conditions of avalanche research **
+- **Review of the forming conditions of avalanche research**
 - BSc, 2019, Advisor: [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)
   - [Abstract in English](https://junfeiwu.github.io/mypaper/thesis/master_degree.pdf)
   - [The Original Version of the Full Article](https://junfeiwu.github.io/mypaper/thesis/undergraduate_degree.pdf)

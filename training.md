@@ -11,7 +11,7 @@ title: RESEARCH EXPERIENCE
 
 ### 2020 - 2021  
 
-- Retrieval of Snow Depth in Nam Co and Selin Co
+- Retrieval of Snow Depth in Nam Co and Selin Co Regions
 
 ### 2019 
 
@@ -89,17 +89,16 @@ Mentor: *Prof. Guan Chen*
 ---
 
 ## 2017
-### Summer Internship at the Glacier National Field Observation and Research Station
+### Summer Internship at the Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences
 
 Urumqi, China
 
-Xinjiang Tianshan Glacier National Field Observation and Research Station, Chinese Academy of Sciences
 
 
 
 - Acquired skills in measuring the melting rate and albedo of the No.1 Tianshan Glacier.
 
-<div class="second">
+<div class="third">
 <img src="https://junfeiwu.github.io/images/Research_exp/tianshan01.jpg"> <img src="https://junfeiwu.github.io/images/Research_exp/tianshan02.jpg">
 <figcaption style="text-align: center">The Group Photo with Summer Interns and the Faculty </figcaption>
 </div>
