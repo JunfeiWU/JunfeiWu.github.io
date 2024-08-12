@@ -28,7 +28,7 @@ title: Publications
 
 
 
-- **Review of the forming conditions of avalanche research**
+- **Review of the Forming Conditions of Avalanche Research**
 - BSc, 2019, Advisor: [Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)
   - [Abstract in English](https://junfeiwu.github.io/mypaper/thesis/master_degree.pdf)
   - [The Original Version of the Full Article](https://junfeiwu.github.io/mypaper/thesis/undergraduate_degree.pdf)

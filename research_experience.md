@@ -42,7 +42,7 @@ Beijing, China
 
 <div class="half">
 <img src="https://junfeiwu.github.io/images/Research_exp/Stations.jpg">
-<img src="https://junfeiwu.github.io/images/Research_exp/field_work02.jpg">
+<img src="https://junfeiwu.github.io/images/Research_exp/field_work02.png">
 <figcaption style="text-align: center">The Meteorological Stations I Assembled</figcaption> 
 </div>
 
