@@ -33,7 +33,10 @@ If you’d like to know more about me, feel free to email me at wujunfei5945@gma
 
 - **Sep 2019 - June 2022:** Institute of Tibetan Plateau Research, Chinese Academy of Sciences (ITPCAS, Joint-Program), Beijing, China
 - **Sep 2019 - June 2022:** Lanzhou University (MSc, Physical Geography), Lanzhou, China
+  - [Bachelor’s Transcript](https://junfeiwu.github.io/file/Transcript_Undergraduate.pdf)
+  
 - **Sep 2015 - June 2019:** Lanzhou University (BSc, Physical Geography), Lanzhou, China
+  - [Master’s Transcript](https://junfeiwu.github.io/file/Transcript_Master.pdf)
 
 Supervisor: *[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)*
 

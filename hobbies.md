@@ -19,6 +19,6 @@ I have been playing badminton for nearly 5 years, starting at the beginning of m
 Recently, I have started taking up cycling. It’s an effective way to explore the city.
 
 
-<div class="half">
+<div>
 <img src="https://junfeiwu.github.io/images/hobbies/b03.jpg">
 </div>
