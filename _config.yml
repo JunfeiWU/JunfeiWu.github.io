@@ -37,16 +37,16 @@ owner:
 # For external links add external: true
 links:
 - title: About Me
-  url: /
+  url:
 - title: /Publications
   url: /publications/
 - title: Awards
   url: /awards/
-- title: RESEARCH EXPERIENCE
-  url: /training/
-- title: RELEVANT EXPERIENCE
-  url: /conferences/
-- title: hobbies
+- title: Research Experience
+  url: /research_experience/
+- title: Relevant Experience
+  url: /relevant_experience/
+- title: Hobbies
   url: /hobbies/
 
 

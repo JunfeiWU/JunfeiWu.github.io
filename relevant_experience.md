@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /conferences/index.html
-title: Conferences
+permalink: /relevant_experience/index.html
+title: Relevant Experience
 ---
 
 ---

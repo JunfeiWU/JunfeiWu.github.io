@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /training/index.html
+permalink: /research_experience/index.html
 title: RESEARCH EXPERIENCE
 ---
 
