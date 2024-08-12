@@ -1,11 +1,8 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /hobbies/index.html
+title: HOBBIES
 ---
-
-
-
 
 # Hobbies
 ## Badminton
