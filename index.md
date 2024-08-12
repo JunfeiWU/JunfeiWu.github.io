@@ -5,9 +5,9 @@ layout: page
 
 # About Me
 
-  Here is **Junfei Wu (Will, 邬俊飞)**. 
-
 <img src="https://junfeiwu.github.io/junfei02.jpg" class="floatpic" width="360" height="480">
+
+Here is **Junfei Wu (Will, 邬俊飞)**. 
 
 I graduated from Lanzhou University with both a bachelor's and a master's degree in physical geography, under the guidance of Prof. Tandong Yao. 
 
