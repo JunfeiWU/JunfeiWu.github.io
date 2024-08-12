@@ -98,7 +98,7 @@ Urumqi, China
 
 - Acquired skills in measuring the melting rate and albedo of the No.1 Tianshan Glacier.
 
-<div class="third">
+<div class="half">
 <img src="https://junfeiwu.github.io/images/Research_exp/tianshan01.jpg"> <img src="https://junfeiwu.github.io/images/Research_exp/tianshan02.jpg">
 <figcaption style="text-align: center">The Group Photo with Summer Interns and the Faculty </figcaption>
 </div>
