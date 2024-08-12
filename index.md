@@ -4,24 +4,17 @@ layout: page
 
 
 # About Me
-
-
 Here is **Junfei Wu (Will, 邬俊飞)**. 
+
 <img src="https://junfeiwu.github.io/junfei02.jpg" class="floatpic" width="360" height="480">
 
-I graduated from Lanzhou University with a bachelor's degree and a master's degree in physical geography, supervised by
-[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/). For two years since graduation, I have been severing as data product
-manager in DiDi Global Company, which is the largest Internet company in China that provides online taxi booking
-services, with a market value of 20 billion US dollars.
+I graduated from Lanzhou University with both a bachelor's and a master's degree in physical geography, under the guidance of Prof. Tandong Yao. 
 
-With over seven years of studying physical geography, I have gained substantial experience in climate change, remote sensing, hydrological modeling, and fieldwork, and I have published two papers. I am passionate about researching how short-term environmental changes, such as climate change and natural hazards, impact communities and individuals. My goal is to highlight these risks and contribute to developing innovative solutions and strategies for improving resilience.
+With over seven years of experience in physical geography, I've developed expertise in climate change, remote sensing, hydrological modeling, and fieldwork, and I’ve published two papers. 
 
+Currently, I work as a data product manager at DiDi Global, China’s largest online taxi booking company. While this role has been valuable, I have discovered my true passion for academic research. I am now seeking a PhD program to explore how short-term environmental changes impact communities and individuals, and to develop innovative solutions for improving resilience.
 
-I love challenging myslef and learn something new. I am very interested in data-related fields and have done a lot of projects in the past. I hope to
-utilize my professional knowledge to solve more social issues to make the world better. 
-
-If you are interested in anything about me, please feel free to email me
-at [wujunfei5945@gmail.com](wujunfei5945@gmail.com). I would be delighted to communicate with you.
+If you’d like to know more about me, feel free to email me at wujunfei5945@gmail.com.  I would be delighted to communicate with you.
 
 ## Work Experience
 
@@ -33,9 +26,9 @@ at [wujunfei5945@gmail.com](wujunfei5945@gmail.com). I would be delighted to com
 
 ## Academic Background
 
-- **Sep 2019 - June 2022:** Institute of Tibetan Plateau Research, Chinese Academy of Sciences (ITPCAS, Joint-Program)
-- **Sep 2019 - June 2022:** Lanzhou University (MSc, Physical Geography)
-- **Sep 2015 - June 2019:** Lanzhou University (BSc, Physical Geography)
+- **Sep 2019 - June 2022:** Institute of Tibetan Plateau Research, Chinese Academy of Sciences (ITPCAS, Joint-Program), Beijing, China
+- **Sep 2019 - June 2022:** Lanzhou University (MSc, Physical Geography), Lanzhou, China
+- **Sep 2015 - June 2019:** Lanzhou University (BSc, Physical Geography), Lanzhou, China
 
 Supervisor: *[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)*
 
@@ -43,12 +36,11 @@ Supervisor: *[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)*
 
 ## Research Interests
 
-- The social or economic effect of climate change, human activities, natural hazards and so on.
-- Remote sensing
-- Numerical modeling
-- Data Collection, feature extraction, analysis, and visualization
+- Remote Sensing
+- Numerical Modeling
+- Climate Change
+- Natural Disasters
+- Data Analysis and Visualization
 
 ---
-
-## News and Updates
 
