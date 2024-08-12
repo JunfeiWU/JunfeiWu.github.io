@@ -5,7 +5,6 @@ title: Publications
 ---
 
 
----
 ## Journals
 
 - [Yufeng Dai, Tao Wang, Yongwei Sheng, Lei Wang, Hongbin Chen, Xiaowen Zhang, Xiangyu Li, Weicai Wang, **Junfei Wu**, Wenfeng Chen, Tandong Yao. “**Westerly-triggered lake-effect snowfall enhanced with climate warming over the Tibetan Plateau**”. *Science Bulletin*, 69. 7 (2024): 968-977.](https://www.sciencedirect.com/science/article/abs/pii/S2095927324000690)

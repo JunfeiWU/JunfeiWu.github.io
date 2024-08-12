@@ -6,7 +6,6 @@ title: RESEARCH EXPERIENCE
 
 
 
----
 ## Outline
 
 ### 2020 - 2021  
@@ -72,7 +71,6 @@ Trainers: [Prof. Arthur Lutz](https://www.futurewater.nl/wp-content/uploads/CV/C
 
 ## 2018
 
----
 
 ### Land Subsidence in Mountain-Cutting Areas: A Case Study from Lanzhou New District
 Lanzhou, China
