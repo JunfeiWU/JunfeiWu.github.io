@@ -37,17 +37,17 @@ owner:
 # For external links add external: true
 links:
 - title: About Me
-  url: /
+  url:
 - title: Publications
-  url: /publications/
+  url: publications/
 - title: Awards
-  url: /awards/
+  url: awards/
 - title: RESEARCH EXPERIENCE
-  url: /training/
+  url: training/
 - title: RELEVANT EXPERIENCE
-  url: /conferences/
+  url: conferences/
 - title: hobbies
-  url: /hobbies/
+  url: hobbies/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
