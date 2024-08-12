@@ -37,9 +37,9 @@ owner:
 # For external links add external: true
 links:
 - title: About Me
-  url:
-- title: Publications
-  url: publications/
+  url: /
+- title: /Publications
+  url: /publications/
 - title: Awards
   url: awards/
 - title: RESEARCH EXPERIENCE
