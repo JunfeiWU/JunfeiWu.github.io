@@ -4,7 +4,8 @@ layout: page
 
 
 # About Me
-Here is **Junfei Wu (Will, 邬俊飞)**. 
+
+  Here is **Junfei Wu (Will, 邬俊飞)**. 
 
 <img src="https://junfeiwu.github.io/junfei02.jpg" class="floatpic" width="360" height="480">
 
