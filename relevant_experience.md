@@ -23,7 +23,6 @@ title: Relevant Experience
 <div class="third">
 <img src="https://junfeiwu.github.io/images/Conferences/tpe_meeting02.jpg">
 <img src="https://junfeiwu.github.io/images/Conferences/tpe_meeting03.jpg">
-<figcaption style="text-align: center">Photo of Participants</figcaption>
 <img src="https://junfeiwu.github.io/images/Conferences/TPE_meeting.jpg">
 </div>
 
