@@ -13,7 +13,7 @@ title: HOBBIES
 <img src="https://junfeiwu.github.io/images/hobbies/b02.jpg">
 </div>
 
-I have been playing badminton for nearly 5 years, starting at the beginning of my graduate studies. It not only gives me a healthy body but also helps me understand the importance of perseverance. I won the championship during campus and while working at DiDi.
+I have been playing badminton for nearly 5 years, starting at the beginning of my graduate studies. It not only gives me a healthy body but also helps me understand the importance of perseverance. I won the campus championship and also one while working at DiDi.
 
 ## Riding
 
