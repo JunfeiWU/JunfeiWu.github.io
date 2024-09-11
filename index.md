@@ -7,15 +7,20 @@ layout: page
 
 <img src="https://junfeiwu.github.io/junfei02.jpg" class="floatpic" width="360" height="480">
 
-Here is **Junfei Wu (Will, 邬俊飞)**. 
+Here is **Junfei Wu (Will, 邬俊飞)**.
 
-I graduated from Lanzhou University with both a bachelor's and a master's degree in physical geography, under the guidance of Prof. Tandong Yao. 
+I hold both a bachelor's and a master’s degree in physical geography from Lanzhou University, where I studied under Prof. Tandong Yao.
 
-With over seven years of experience in physical geography, I've developed expertise in climate change, remote sensing, hydrological modeling, and fieldwork, and I’ve published two papers. 
+With over seven years of experience in physical geography, I have developed a strong expertise in climate change, remote sensing, hydrological modeling, and fieldwork, and have published two papers in these areas.
 
-Currently, I work as a data product manager at DiDi Global, China’s largest online taxi booking company. While this role has been valuable, I have discovered my true passion for academic research. I am now seeking a PhD program to explore how short-term environmental changes impact communities and individuals, and to develop innovative solutions to enhance resilience.
+Currently, I work as a data product manager at DiDi Global, China’s largest online taxi booking company. While this role has provided valuable experience, I have realized that my true passion lies in academic research. I am now seeking a Ph.D. program to investigate how short-term environmental changes impact communities and individuals and to develop innovative solutions to enhance resilience.
 
-If you’d like to know more about me, feel free to email me at wujunfei5945@gmail.com.  I would be delighted to communicate with you.
+For more information, please feel free to contact me at wujunfei5945@gmail.com. I look forward to the opportunity to discuss my research interests further.
+
+
+
+
+
 
 ---
 
@@ -48,6 +53,7 @@ Supervisor: *[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)*
 - Numerical Modeling
 - Climate Change
 - Natural Disasters
+- Water Resource Management
 - Data Analysis and Visualization
 
 ---
