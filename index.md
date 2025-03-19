@@ -9,7 +9,7 @@ layout: page
 Here is **Junfei Wu (Will, 邬俊飞)**.
 
 I hold both a Bachelor's and a Master's degree in Physical Geography from Lanzhou University, where I studied under the
-supervision of Prof. Tandong Yao.
+supervision of *[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)*.
 
 My research primarily focuses on climate change, avalanche formation, and snow-depth retrieval using remote sensing
 techniques.
