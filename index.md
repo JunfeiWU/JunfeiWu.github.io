@@ -11,17 +11,18 @@ Here is **Junfei Wu (Will, 邬俊飞)**.
 I hold both a Bachelor's and a Master's degree in Physical Geography from Lanzhou University, where I studied under the
 supervision of *[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)*.
 
-My research primarily focuses on climate change, avalanche formation, and snow-depth retrieval using remote sensing
-techniques.
+My academic background centers on hydrological modeling and snow-depth retrieval using remote sensing techniques.
 
-After graduating in 2022, I worked as a Data Product Manager at DiDi Global, China’s leading ride-hailing platform. In
-this role, I was responsible for designing and optimizing a big data ETL (extraction, transformation, and loading)
-software, leveraging customer behavior datasets.
+After graduating in 2022, I joined DiDi Global, China’s leading ride-hailing platform, as a Data Product Manager. In
+this role, I was responsible for designing and optimizing a large-scale ETL (Extract, Transform, Load) platform, and
+working extensively with quantitative methods.
 
-However, after two years, I realized that my true passion lies in academic research. As a result, I resigned from my
-position in November 2024 to pursue a Ph.D. program and further advance my academic and research aspirations.
+However, after two years in industry, I realized that my true passion lies in academic research. I resigned from my
+position in November 2024 to pursue a Ph.D., with the goal of deepening my expertise and contributing to cutting-edge
+research in remote sensing or related fields where I can realize my full potential.
 
-For any further inquiries or information, please feel free to contact me at wujunfei5945@gmail.com.
+I am currently seeking a Ph.D. position. If you find my background aligns with your team, please
+feel free to reach out to me at wujunfei5945@gmail.com. I’d be delighted to connect and discuss potential opportunities.
 
 
 ---
@@ -51,11 +52,9 @@ Supervisor: *[Prof. Tandong Yao](http://tdyao.itpcas.ac.cn/)*
 ## Research Interests
 
 - Remote Sensing
-- Numerical Modeling
+- Big Data
 - Climate Change
-- Natural Disasters
 - Water Resource Management
-- Data Analysis and Visualization
 
 ---
 

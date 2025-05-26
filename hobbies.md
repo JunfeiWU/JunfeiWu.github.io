@@ -12,13 +12,14 @@ title: HOBBIES
 <img src="https://junfeiwu.github.io/images/hobbies/01.jpg">
 <img src="https://junfeiwu.github.io/images/hobbies/b02.jpg">
 </div>
+I truly enjoy playing badminton — it's a hobby that has helped me make many friends over the years. I consider it not just a sport, but a wonderful way to stay active and connected. I've also won several prizes in amateur competitions.
 
-I have been playing badminton for nearly 5 years, starting at the beginning of my graduate studies. It not only gives me a healthy body but also helps me understand the importance of perseverance. I won the campus championship and also one while working at DiDi.
+## Cycling
 
-## Riding
+From time to time, I enjoy cycling around the city. It's a great way to explore urban neighborhoods while staying close
+to nature.
 
-Recently, I have started taking up cycling. It’s an effective way to explore the city.
-
-<div>
+<div class="half">
 <img src="https://junfeiwu.github.io/images/hobbies/b03.jpg">
+<img src="https://junfeiwu.github.io/images/hobbies/b04.jpg">
 </div>
