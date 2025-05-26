@@ -17,8 +17,8 @@ After graduating in 2022, I joined DiDi Global, China’s leading ride-hailing p
 this role, I was responsible for designing and optimizing a large-scale ETL (Extract, Transform, Load) platform, and
 working extensively with quantitative methods.
 
-However, after two years in industry, I realized that my true passion lies in academic research. I resigned from my
-position in November 2024 to pursue a Ph.D., with the goal of deepening my expertise and contributing to cutting-edge
+However, after three years in industry, I realized that my true passion lies in academic research. I resigned from my
+position in 2025 to pursue a Ph.D., with the goal of deepening my expertise and contributing to cutting-edge
 research in remote sensing or related fields where I can realize my full potential.
 
 I am currently seeking a Ph.D. position. If you find my background aligns with your team, please
